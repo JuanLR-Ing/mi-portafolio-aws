@@ -1,0 +1,18 @@
+[
+  {
+    "studentId": "Juanlr",
+    "studentName": "Juan Jose Lozano Rodriguez",
+    "program": "Tecnología en Desarrollo de Software",
+    "publishedAt": "2026-10-04T18:00:00Z",
+    "url": "https://d2hdvk6b6cfd7b.cloudfront.net/index.html",
+    "visibility": "public"
+  },
+  {
+    "studentId": "univalle-2560998",
+    "studentName": "Estudiante Privado",
+    "program": "Ingeniería",
+    "publishedAt": "2026-10-04T18:15:00Z",
+    "url": "https://d2hdvk6b6cfd7b.cloudfront.net/private/univalle-2560998/index.html",
+    "visibility": "private"
+  }
+]
